@@ -1,12 +1,14 @@
 # Hi, I'm Nidhal Kissoum 👋
 
-**Full-Stack Engineer (Go · Next.js · Java) building AI systems: RAG, AI agents and EEG/BCI machine learning.**
-Algiers, Algeria · open to CDI / contract / remote · 🇬🇧 English C1 · 🇫🇷 Français B2 · Arabic native
+**AI Engineer & Full-Stack Developer — I build AI systems end to end: RAG, AI agents, PyTorch and EEG/BCI machine learning, shipped with real APIs and interfaces.**
+Algiers, Algeria · open to AI Engineer roles (CDI / contract / remote) · 🇬🇧 English C1 · 🇫🇷 Français B2 · Arabic native
 
-- 🏛️ Full-stack engineer on a production government platform since Dec 2025: Go microservices + Next.js,
-  migrating a legacy Java Struts / Liferay system.
 - 🎓 MSc in Computer Science — Artificial Intelligence & Bioinformatics (USTHB, 2025). Master's project:
   EEG brain-signal classification (30-channel EEG collected with a clinic, 7 ML/DL models in PyTorch).
+- 🤖 Personal AI projects: agentic RAG that verifies its sources, GraphRAG for BCI research, tool-using agents for
+  media buying and e-commerce (below).
+- 🏛️ Full-stack engineer on a production government platform since Dec 2025: Go microservices + Next.js,
+  migrating a legacy Java Struts / Liferay system.
 - 📈 3 years of freelance media buying (Meta / Google / TikTok Ads), which is why I build AI for marketing
   and e-commerce.
 - 🧑‍🏫 Part-time lecturer, technical English, USTHB Faculty of Computer Science.
@@ -36,10 +38,10 @@ Algiers, Algeria · open to CDI / contract / remote · 🇬🇧 English C1 · �
 
 ## 🛠️ Stack
 
-**Backend:** Go · Java (Liferay, Spring) · Python · REST · microservices
+**AI / ML:** PyTorch · scikit-learn · TensorFlow · RAG · GraphRAG · AI agents (tool use) · Claude API · MNE-Python · pandas · NumPy
+**Backend:** Python · Go · Java (Liferay, Spring) · REST · FastAPI · microservices
 **Frontend:** Next.js · TypeScript · JavaScript
-**Data:** PostgreSQL · Oracle · SQL
-**AI / ML:** PyTorch · scikit-learn · TensorFlow · RAG · AI agents (tool use) · Claude API · MNE-Python
+**Data:** PostgreSQL · Oracle · SQL · knowledge graphs (networkx / Neo4j)
 **Tools:** Git · Linux · Docker · Proxmox VE
 
 ## 📫 Contact
