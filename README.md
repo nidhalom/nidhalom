@@ -20,6 +20,19 @@ Algiers, Algeria · open to CDI / contract / remote · 🇬🇧 English C1 · �
 | [**adpilot-media-buyer-agent**](https://github.com/nidhalom/adpilot-media-buyer-agent) | AI media-buyer agent: reads ad exports, finds fatigued creatives, proposes budget moves, writes hooks | Python · tool-using agent · pandas |
 | [**dzshop-agent**](https://github.com/nidhalom/dzshop-agent) | Customer-service & cash-on-delivery order agent for Algerian shops, in Darija / Arabic / French | Python · AI agent · FastAPI · SQLite |
 | [**sandbox-research**](https://github.com/nidhalom/sandbox-research) | Crypto & gold strategy research engine with survivorship-free backtests and independent audits | Python · backtesting · statistics |
+| [**starrocket-flight-replay**](https://github.com/nidhalom/starrocket-flight-replay) · [live demo](https://nidhalom.github.io/starrocket-flight-replay/) | 3D flight replay built for my student rocketry team (StarRocket): import altimeter data, save and compare flights | JavaScript · Three.js |
+
+## 🧪 Labs
+
+| Lab | What's inside |
+|---|---|
+| [**ai-engineering-lab**](https://github.com/nidhalom/ai-engineering-lab) | 12 small AI projects built from scratch: BM25, RAG chunking & evaluation, prompt-injection guard, LLM JSON extraction, EEG toolkit, EEGNet, autograd, forecasting |
+| [**go-backend-lab**](https://github.com/nidhalom/go-backend-lab) | 5 Go services: URL shortener, JWT auth, rate limiter, file sharing, notes API on PostgreSQL |
+| [**devops-sql-lab**](https://github.com/nidhalom/devops-sql-lab) | Docker Compose templates, Proxmox VE scripts, 25 SQL exercises in Oracle & PostgreSQL |
+
+## 🌐 Live
+
+[Portfolio](https://nidhalom.github.io/nextjs-portfolio/) · [StarRocket replay](https://nidhalom.github.io/starrocket-flight-replay/) · [Media KPI calculator](https://nidhalom.github.io/media-kpi-calculator/)
 
 ## 🛠️ Stack
 
