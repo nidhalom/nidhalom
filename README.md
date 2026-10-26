@@ -1,19 +1,19 @@
-# Hi, I'm Nidhal Kissoum 👋
+# Hi, I'm Nidhal Kissoum
 
 **AI Engineer & Full-Stack Developer — I build AI systems end to end: RAG, AI agents, PyTorch and EEG/BCI machine learning, shipped with real APIs and interfaces.**
-Algiers, Algeria · open to AI Engineer roles (CDI / contract / remote) · 🇬🇧 English C1 · 🇫🇷 Français B2 · Arabic native
+Algiers, Algeria · open to AI Engineer roles (CDI / contract / remote) · English C1 · Français B2 · Arabic native
 
-- 🎓 MSc in Computer Science — Artificial Intelligence & Bioinformatics (USTHB, 2025). Master's project:
-  EEG brain-signal classification (30-channel EEG collected with a clinic, 7 ML/DL models in PyTorch).
-- 🤖 Personal AI projects: agentic RAG that verifies its sources, GraphRAG for BCI research, tool-using agents for
-  media buying and e-commerce (below).
-- 🏛️ Full-stack engineer on a production government platform since Dec 2025: Go microservices + Next.js,
-  migrating a legacy Java Struts / Liferay system.
-- 📈 3 years of freelance media buying (Meta / Google / TikTok Ads), which is why I build AI for marketing
-  and e-commerce.
-- 🧑‍🏫 Part-time lecturer, technical English, USTHB Faculty of Computer Science.
+- MSc in Computer Science — Artificial Intelligence & Bioinformatics (USTHB, 2025). Master's project:
+ EEG brain-signal classification (30-channel EEG collected with a clinic, 7 ML/DL models in PyTorch).
+- Personal AI projects: agentic RAG that verifies its sources, GraphRAG for BCI research, tool-using agents for
+ media buying and e-commerce (below).
+- Full-stack engineer on a production government platform since Dec 2025: Go microservices + Next.js,
+ migrating a legacy Java Struts / Liferay system.
+- 3 years of freelance media buying (Meta / Google / TikTok Ads), which is why I build AI for marketing
+ and e-commerce.
+- Part-time lecturer, technical English, USTHB Faculty of Computer Science.
 
-## ⭐ Featured projects
+## Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -25,11 +25,11 @@ Algiers, Algeria · open to AI Engineer roles (CDI / contract / remote) · 🇬�
 | [**starrocket-flight-replay**](https://github.com/nidhalom/starrocket-flight-replay) · [live demo](https://nidhalom.github.io/starrocket-flight-replay/) | 3D flight replay built for my student rocketry team (StarRocket): import altimeter data, save and compare flights | JavaScript · Three.js |
 
 
-## 🌐 Live
+## Live
 
 [Portfolio](https://nidhalom.github.io/nextjs-portfolio/) · [StarRocket replay](https://nidhalom.github.io/starrocket-flight-replay/)
 
-## 🛠️ Stack
+## Stack
 
 **AI / ML:** PyTorch · scikit-learn · TensorFlow · RAG · GraphRAG · AI agents (tool use) · Claude API · MNE-Python · pandas · NumPy
 **Backend:** Python · Go · Java (Liferay, Spring) · REST · FastAPI · microservices
@@ -37,6 +37,6 @@ Algiers, Algeria · open to AI Engineer roles (CDI / contract / remote) · 🇬�
 **Data:** PostgreSQL · Oracle · SQL · knowledge graphs (networkx / Neo4j)
 **Tools:** Git · Linux · Docker · Proxmox VE
 
-## 📫 Contact
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/nidhal-kissoum) · nidhalm01@gmail.com
