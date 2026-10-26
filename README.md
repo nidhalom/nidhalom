@@ -21,7 +21,7 @@ Algiers, Algeria · open to AI Engineer roles (CDI / contract / remote) · Engli
 | [**neuro-graphrag**](https://github.com/nidhalom/neuro-graphrag) | GraphRAG for brain-computer-interface research: knowledge graph of EEG/BCI papers, multi-hop questions | Python · knowledge graphs · networkx / Neo4j · arXiv |
 | [**adpilot-media-buyer-agent**](https://github.com/nidhalom/adpilot-media-buyer-agent) | AI media-buyer agent: reads ad exports, finds fatigued creatives, proposes budget moves, writes hooks | Python · tool-using agent · pandas |
 | [**dzshop-agent**](https://github.com/nidhalom/dzshop-agent) | Customer-service & cash-on-delivery order agent for Algerian shops, in Darija / Arabic / French | Python · AI agent · FastAPI · SQLite |
-| [**sandbox-research**](https://github.com/nidhalom/sandbox-research) | Crypto & gold strategy research engine with survivorship-free backtests and independent audits | Python · backtesting · statistics |
+| [**sandbox-research**](https://github.com/nidhalom/sandbox-research) | Crypto & gold strategy research engine with survivorship-free backtests and pre-registered tests | Python · backtesting · statistics |
 | [**starrocket-flight-replay**](https://github.com/nidhalom/starrocket-flight-replay) · [live demo](https://nidhalom.github.io/starrocket-flight-replay/) | 3D flight replay built for my student rocketry team (StarRocket): import altimeter data, save and compare flights | JavaScript · Three.js |
 
 
